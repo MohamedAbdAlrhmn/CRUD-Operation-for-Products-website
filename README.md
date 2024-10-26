@@ -1,2 +1,2 @@
 # CRUD-Operation-for-Products-website
-This project is designed to implement CRUD (Create, Read, Update, Delete and searching for a product) functionalities with an emphasis on user interaction and experience.
+This project is designed to implement CRUD (Create, Read, Update, Delete and searching for a product) functionalities with an emphasis on user interaction and experience.It includes specific requirements such as displaying warning messages when no data is available, updating data in place, clearing forms after data submission, and using user-friendly alerts for actions like deletion confirmation. This ensures smooth data handling and an intuitive user experience for managing data in an MVC application.
